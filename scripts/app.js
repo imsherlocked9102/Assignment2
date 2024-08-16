@@ -33,32 +33,32 @@
 
     // List of shopping items to buy
     var items = [{
-        "name": "Pickled",
-        "quantity": 40
+        "name": "Apples",
+        "quantity": 4
       },
       {
-        "name": "Osso",
-        "quantity": 27
+        "name": "Asparagus",
+        "quantity": 2
       },
       {
-        "name": "Pecan",
-        "quantity": 34
+        "name": "Meat",
+        "quantity": 100
       },
       {
-        "name": "Pistachio",
-        "quantity": 34
+        "name": "Paneer",
+        "quantity": 50
       },
       {
-        "name": "Wine",
-        "quantity": 38
+        "name": "Cereals",
+        "quantity": 3
       },
       {
-        "name": "Bagelers",
+        "name": "Butter",
         "quantity": 7
       },
       {
         "name": "Juice",
-        "quantity": 36
+        "quantity": 6
       }
     ];
 
